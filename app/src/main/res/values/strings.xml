@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mycheckbox</string>
+    <string name="adidas">Adidas</string>
+    <string name="nike">Nike</string>
+    <string name="itly">Itly</string>
+    <string name="Itly">Itly</string>
+    <string name="Rome">Rome</string>
+    <string name="Varanasi">Varanasi</string>
+    <string name="Moscow">Moscow</string>
+    <string name="add_to_list">add_to_list</string>
+    <string name="remove_list">remove_list</string>
+    <string name="remove_item">remove_item</string>
+</resources>
